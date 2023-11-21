@@ -12,6 +12,7 @@ dependencies/*
 vcpkg/*
 .vs/*
 .idea
+*.a
 *.o
 *.so
 *.dll
